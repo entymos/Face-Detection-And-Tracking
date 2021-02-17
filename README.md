@@ -1,3 +1,11 @@
+This is simple code for face detection and tracking.
+
+face detection library: dlib 
+object tracking library: cv2.CamShift
+
+
+[How to Setup]
+
 1. install anaconda python 3.6 version
    https://www.anaconda.com/download/
 
